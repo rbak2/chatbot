@@ -1,2 +1,6 @@
 # chatbot
-Приклад розширення списку тем: 
+Приклад розширення списку тем:
+class Example(Strategy):
+    def method(self):
+        ...
+        return ...
